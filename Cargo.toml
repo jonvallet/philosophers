@@ -1,0 +1,4 @@
+[package]
+name = "philosophers"
+version = "0.1.0"
+authors = ["Jon Vallet <j.vallet@validus-ivc.co.uk>"]
